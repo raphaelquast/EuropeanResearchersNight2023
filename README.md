@@ -2,6 +2,10 @@
 
 Scripts for the EOmaps widget to visualize the Parkistan-flood at the ERN 2023
 
+![animation.gif](animation.gif)
+
+# Setup
+
 To setup from scratch, the following steps are required:
 
 - install [miniconda]() 
@@ -24,5 +28,3 @@ then navigate to the directory where you cloned the repository and run:
 ```
 python -m widget_TIFF.py
 ```
-
-![animation.gif](animation.gif)
