@@ -28,3 +28,8 @@ then navigate to the directory where you cloned the repository and run:
 ```
 python -m widget_TIFF.py
 ```
+
+If you want to pre-load all layers on startup, invoke the script with the `-f 1` flag:
+```
+python -m widget_TIFF.py -f 1
+```
