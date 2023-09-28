@@ -24,3 +24,5 @@ then navigate to the directory where you cloned the repository and run:
 ```
 python -m widget_TIFF.py
 ```
+
+![animation.gif](animation.gif)
