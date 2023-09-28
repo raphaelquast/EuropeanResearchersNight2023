@@ -33,3 +33,7 @@ If you want to pre-load all layers on startup, invoke the script with the `-f 1`
 ```
 python -m widget_TIFF.py -f 1
 ```
+
+### Tipps
+- callbacks are only triggered if no pan/zoom tool is activated!
+- to exit fullscreen mode, press `f`
